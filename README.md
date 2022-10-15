@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shruti Jain
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning Node.js and MongoDB
-- 💞️ I’m looking to collaborate on Open Source Projects
+- 💞️ I’m looking to collaborate on **Open Source Projects**
 - 📫 How to reach me 20shrutujn@gmail.com
 
 <!---
